@@ -1,0 +1,2 @@
+# allow git to track changes in word docs
+*.docx diff=pandoc
